@@ -3,7 +3,7 @@ Christopher Consiglio
 4/29/2022
 
 Our project analyzes how variables from the Heritage Foundation's Index of Economic Freedom correlate with the subjective life satisfaction scores of countries obtained 
-for the World Happiness Report. We also create a linear regression model for prediction predicting life satisfaction from a select few variables in the Index of Economic 
+for the World Happiness Report. We also create a linear regression model for predicting life satisfaction from a select few variables in the Index of Economic 
 Freedom.
 
 To see our deepnote report, view the follwing URL: 
