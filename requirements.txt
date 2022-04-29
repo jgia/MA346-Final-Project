@@ -1,3 +1,6 @@
 pandasql==0.7.3
 streamlit
 statsmodels==0.13.2
+pandas
+numpy
+matplotlib
