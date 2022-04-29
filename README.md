@@ -6,7 +6,7 @@ Our project analyzes how variables from the Heritage Foundation's Index of Econo
 for the World Happiness Report. We also create a linear regression model for prediction predicting life satisfaction from a select few variables in the Index of Economic 
 Freedom.
 
-To see our complete report, view the follwing URL: 
+To see our deepnote report, view the follwing URL: 
 https://deepnote.com/@john-giaquinto-685f/MA346-Final-Project-Giaquinto-and-Consiglio-a8eb658e-6f64-4544-bf57-cd04444e7be6
 
 If you are interested in seeing a Streamlit dashboard that explores life satisfaction by region and has interative scatter plots for comparing life satisfaction with 
